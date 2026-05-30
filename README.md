@@ -1,15 +1,12 @@
 <p align="center">
-  <img src="https://i.imgur.com/YOUR_GIF_LINK.gif" width="900"/>
+  <img src="./assets/vesak.gif" width="800"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Happy-Vesak%20Poya%20Day-gold?style=for-the-badge"/>
-</p>
+<div align="center">
 
-<h1 align="center">🪔 Vesak Greetings 🪔</h1>
+# 🪔 Happy Vesak Poya Day 🪔
 
-<p align="center">
-May Peace, Wisdom & Compassion Guide All Beings 🌸  
-<br>
-🙏 Namo Buddhaya 🙏
-</p>
+🌸 May Peace, Wisdom & Compassion Guide You 🌸  
+🙏 සැමට සුභ වෙසක් පොහොය දිනයක් වේවා 🙏
+
+</div>
