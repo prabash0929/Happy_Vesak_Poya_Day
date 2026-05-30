@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/vesak.gif" width="800"/>
+  <img src="./assets/vesak.webp" width="800"/>
 </p>
 
 <div align="center">
